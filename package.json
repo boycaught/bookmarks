@@ -33,7 +33,7 @@
 		"clone-deep": "^4.0.1",
 		"copy-text-to-clipboard": "^3.0.1",
 		"humanize-duration": "^3.27.2",
-		"linkify-it": "^3.0.3",
+		"linkify-it": "^4.0.1",
 		"lodash": "^4.17.21",
 		"nextcloud-vue-collections": "^0.10.0",
 		"sanitize-html": "^2.7.0",
